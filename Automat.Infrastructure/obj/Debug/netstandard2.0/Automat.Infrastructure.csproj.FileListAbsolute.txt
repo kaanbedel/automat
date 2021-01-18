@@ -1,0 +1,14 @@
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\bin\Debug\netstandard2.0\Automat.Infrastructure.deps.json
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\bin\Debug\netstandard2.0\Automat.Infrastructure.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\bin\Debug\netstandard2.0\Automat.Infrastructure.pdb
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\bin\Debug\netstandard2.0\Automat.Application.Abstraction.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\bin\Debug\netstandard2.0\Automat.Application.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\bin\Debug\netstandard2.0\Automat.Application.Abstraction.pdb
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\bin\Debug\netstandard2.0\Automat.Application.pdb
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\obj\Debug\netstandard2.0\Automat.Infrastructure.csprojAssemblyReference.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\obj\Debug\netstandard2.0\Automat.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\obj\Debug\netstandard2.0\Automat.Infrastructure.AssemblyInfo.cs
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\obj\Debug\netstandard2.0\Automat.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\obj\Debug\netstandard2.0\Automat.Infrastructure.csproj.CopyComplete
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\obj\Debug\netstandard2.0\Automat.Infrastructure.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Infrastructure\obj\Debug\netstandard2.0\Automat.Infrastructure.pdb

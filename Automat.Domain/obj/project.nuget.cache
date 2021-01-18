@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZBMNGF28YA+5X+3wChxNDEzum40CX0S/ljtPFJ4Pm2YNbjUaYLiK+lUAh8Ao3HjINSB2hMM9B80fQJWIS/Klw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Domain\\Automat.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\02483838\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

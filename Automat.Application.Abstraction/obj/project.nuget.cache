@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wtH+h3LoklhMz1Rg8b5JywLK6AgohGwrkrJyKD4kT1zeXK+xXsl33oSHsQfRuTQvJpt+SAjF6kbzno2/1HXbAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\Automat.Application.Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\02483838\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

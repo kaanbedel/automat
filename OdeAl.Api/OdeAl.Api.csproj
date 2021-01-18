@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Automat.Application.Abstraction\Automat.Application.Abstraction.csproj" />
+    <ProjectReference Include="..\Automat.Infrastructure\Automat.Infrastructure.csproj" />
+    <ProjectReference Include="..\Automat.Persistence\Automat.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

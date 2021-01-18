@@ -1,0 +1,8 @@
+C:\Users\02483838\source\repos\OdealCase\Automat.Common\bin\Debug\netstandard2.1\Automat.Common.deps.json
+C:\Users\02483838\source\repos\OdealCase\Automat.Common\bin\Debug\netstandard2.1\Automat.Common.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Common\bin\Debug\netstandard2.1\Automat.Common.pdb
+C:\Users\02483838\source\repos\OdealCase\Automat.Common\obj\Debug\netstandard2.1\Automat.Common.AssemblyInfoInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Common\obj\Debug\netstandard2.1\Automat.Common.AssemblyInfo.cs
+C:\Users\02483838\source\repos\OdealCase\Automat.Common\obj\Debug\netstandard2.1\Automat.Common.csproj.CoreCompileInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Common\obj\Debug\netstandard2.1\Automat.Common.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Common\obj\Debug\netstandard2.1\Automat.Common.pdb

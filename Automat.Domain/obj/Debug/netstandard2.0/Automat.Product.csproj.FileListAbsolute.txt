@@ -1,0 +1,9 @@
+C:\Users\02483838\source\repos\OdealCase\Products\bin\Debug\netstandard2.0\Automat.Product.deps.json
+C:\Users\02483838\source\repos\OdealCase\Products\bin\Debug\netstandard2.0\Automat.Product.dll
+C:\Users\02483838\source\repos\OdealCase\Products\bin\Debug\netstandard2.0\Automat.Product.pdb
+C:\Users\02483838\source\repos\OdealCase\Products\obj\Debug\netstandard2.0\Automat.Product.csprojAssemblyReference.cache
+C:\Users\02483838\source\repos\OdealCase\Products\obj\Debug\netstandard2.0\Automat.Product.AssemblyInfoInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Products\obj\Debug\netstandard2.0\Automat.Product.AssemblyInfo.cs
+C:\Users\02483838\source\repos\OdealCase\Products\obj\Debug\netstandard2.0\Automat.Product.csproj.CoreCompileInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Products\obj\Debug\netstandard2.0\Automat.Product.dll
+C:\Users\02483838\source\repos\OdealCase\Products\obj\Debug\netstandard2.0\Automat.Product.pdb

@@ -1,0 +1,12 @@
+C:\Users\02483838\source\repos\OdealCase\Automat.Persistence\bin\Debug\netstandard2.1\Automat.Persistence.deps.json
+C:\Users\02483838\source\repos\OdealCase\Automat.Persistence\bin\Debug\netstandard2.1\Automat.Persistence.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Persistence\bin\Debug\netstandard2.1\Automat.Persistence.pdb
+C:\Users\02483838\source\repos\OdealCase\Automat.Persistence\bin\Debug\netstandard2.1\Automat.Domain.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Persistence\bin\Debug\netstandard2.1\Automat.Domain.pdb
+C:\Users\02483838\source\repos\OdealCase\Automat.Persistence\obj\Debug\netstandard2.1\Automat.Persistence.csprojAssemblyReference.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Persistence\obj\Debug\netstandard2.1\Automat.Persistence.AssemblyInfoInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Persistence\obj\Debug\netstandard2.1\Automat.Persistence.AssemblyInfo.cs
+C:\Users\02483838\source\repos\OdealCase\Automat.Persistence\obj\Debug\netstandard2.1\Automat.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Persistence\obj\Debug\netstandard2.1\Automat.Persistence.csproj.CopyComplete
+C:\Users\02483838\source\repos\OdealCase\Automat.Persistence\obj\Debug\netstandard2.1\Automat.Persistence.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Persistence\obj\Debug\netstandard2.1\Automat.Persistence.pdb

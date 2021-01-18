@@ -1,0 +1,680 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\02483838\\source\\repos\\OdealCase\\XUnitTest\\XUnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\Automat.Application.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\Automat.Application.Abstraction.csproj",
+        "projectName": "Automat.Application.Abstraction",
+        "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\Automat.Application.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\02483838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\02483838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Common\\Automat.Common.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Common\\Automat.Common.csproj"
+              },
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Domain\\Automat.Domain.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Domain\\Automat.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application\\Automat.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application\\Automat.Application.csproj",
+        "projectName": "Automat.Application",
+        "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application\\Automat.Application.csproj",
+        "packagesPath": "C:\\Users\\02483838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\02483838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\Automat.Application.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\Automat.Application.Abstraction.csproj"
+              },
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Common\\Automat.Common.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Common\\Automat.Common.csproj"
+              },
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Data\\Automat.Data.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Data\\Automat.Data.csproj"
+              },
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Domain\\Automat.Domain.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Domain\\Automat.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Common\\Automat.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Common\\Automat.Common.csproj",
+        "projectName": "Automat.Common",
+        "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Common\\Automat.Common.csproj",
+        "packagesPath": "C:\\Users\\02483838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\02483838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Data\\Automat.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Data\\Automat.Data.csproj",
+        "projectName": "Automat.Data",
+        "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Data\\Automat.Data.csproj",
+        "packagesPath": "C:\\Users\\02483838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\02483838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Domain\\Automat.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Domain\\Automat.Domain.csproj",
+        "projectName": "Automat.Domain",
+        "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Domain\\Automat.Domain.csproj",
+        "packagesPath": "C:\\Users\\02483838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\02483838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Infrastructure\\Automat.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Infrastructure\\Automat.Infrastructure.csproj",
+        "projectName": "Automat.Infrastructure",
+        "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Infrastructure\\Automat.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\02483838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\02483838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\Automat.Application.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\Automat.Application.Abstraction.csproj"
+              },
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application\\Automat.Application.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application\\Automat.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Persistence\\Automat.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Persistence\\Automat.Persistence.csproj",
+        "projectName": "Automat.Persistence",
+        "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Persistence\\Automat.Persistence.csproj",
+        "packagesPath": "C:\\Users\\02483838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\02483838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Domain\\Automat.Domain.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Domain\\Automat.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.11, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\02483838\\source\\repos\\OdealCase\\OdeAl.Api\\OdeAl.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\02483838\\source\\repos\\OdealCase\\OdeAl.Api\\OdeAl.Api.csproj",
+        "projectName": "OdeAl.Api",
+        "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\OdeAl.Api\\OdeAl.Api.csproj",
+        "packagesPath": "C:\\Users\\02483838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\OdeAl.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\02483838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\Automat.Application.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\Automat.Application.Abstraction.csproj"
+              },
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Infrastructure\\Automat.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Infrastructure\\Automat.Infrastructure.csproj"
+              },
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Persistence\\Automat.Persistence.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Persistence\\Automat.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\02483838\\source\\repos\\OdealCase\\XUnitTest\\XUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\02483838\\source\\repos\\OdealCase\\XUnitTest\\XUnitTest.csproj",
+        "projectName": "XUnitTest",
+        "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\XUnitTest\\XUnitTest.csproj",
+        "packagesPath": "C:\\Users\\02483838\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\XUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\02483838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\Automat.Application.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\Automat.Application.Abstraction\\Automat.Application.Abstraction.csproj"
+              },
+              "C:\\Users\\02483838\\source\\repos\\OdealCase\\OdeAl.Api\\OdeAl.Api.csproj": {
+                "projectPath": "C:\\Users\\02483838\\source\\repos\\OdealCase\\OdeAl.Api\\OdeAl.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

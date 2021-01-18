@@ -1,0 +1,15 @@
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\bin\Debug\netcoreapp2.1\Automat.UnitTest.deps.json
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\bin\Debug\netcoreapp2.1\Automat.UnitTest.runtimeconfig.json
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\bin\Debug\netcoreapp2.1\Automat.UnitTest.runtimeconfig.dev.json
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\bin\Debug\netcoreapp2.1\Automat.UnitTest.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\obj\Debug\netcoreapp2.1\Automat.UnitTest.csprojAssemblyReference.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\obj\Debug\netcoreapp2.1\Automat.UnitTest.AssemblyInfoInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\obj\Debug\netcoreapp2.1\Automat.UnitTest.AssemblyInfo.cs
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\obj\Debug\netcoreapp2.1\Automat.UnitTest.genruntimeconfig.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\bin\Debug\netcoreapp2.1\Automat.UnitTest.pdb
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\obj\Debug\netcoreapp2.1\Automat.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\obj\Debug\netcoreapp2.1\Automat.UnitTest.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.UnitTest\obj\Debug\netcoreapp2.1\Automat.UnitTest.pdb

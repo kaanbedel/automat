@@ -1,0 +1,12 @@
+C:\Users\02483838\source\repos\OdealCase\Automat.Application\bin\Debug\netstandard2.0\Automat.Application.deps.json
+C:\Users\02483838\source\repos\OdealCase\Automat.Application\bin\Debug\netstandard2.0\Automat.Application.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Application\bin\Debug\netstandard2.0\Automat.Application.pdb
+C:\Users\02483838\source\repos\OdealCase\Automat.Application\bin\Debug\netstandard2.0\Automat.Application.Abstraction.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Application\bin\Debug\netstandard2.0\Automat.Application.Abstraction.pdb
+C:\Users\02483838\source\repos\OdealCase\Automat.Application\obj\Debug\netstandard2.0\Automat.Application.csprojAssemblyReference.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Application\obj\Debug\netstandard2.0\Automat.Application.AssemblyInfoInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Application\obj\Debug\netstandard2.0\Automat.Application.AssemblyInfo.cs
+C:\Users\02483838\source\repos\OdealCase\Automat.Application\obj\Debug\netstandard2.0\Automat.Application.csproj.CoreCompileInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Application\obj\Debug\netstandard2.0\Automat.Application.csproj.CopyComplete
+C:\Users\02483838\source\repos\OdealCase\Automat.Application\obj\Debug\netstandard2.0\Automat.Application.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Application\obj\Debug\netstandard2.0\Automat.Application.pdb

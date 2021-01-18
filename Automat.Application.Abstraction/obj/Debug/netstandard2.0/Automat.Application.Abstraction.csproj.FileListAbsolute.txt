@@ -1,0 +1,9 @@
+C:\Users\02483838\source\repos\OdealCase\Automat.Application.Abstraction\bin\Debug\netstandard2.0\Automat.Application.Abstraction.deps.json
+C:\Users\02483838\source\repos\OdealCase\Automat.Application.Abstraction\bin\Debug\netstandard2.0\Automat.Application.Abstraction.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Application.Abstraction\bin\Debug\netstandard2.0\Automat.Application.Abstraction.pdb
+C:\Users\02483838\source\repos\OdealCase\Automat.Application.Abstraction\obj\Debug\netstandard2.0\Automat.Application.Abstraction.csprojAssemblyReference.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Application.Abstraction\obj\Debug\netstandard2.0\Automat.Application.Abstraction.AssemblyInfoInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Application.Abstraction\obj\Debug\netstandard2.0\Automat.Application.Abstraction.AssemblyInfo.cs
+C:\Users\02483838\source\repos\OdealCase\Automat.Application.Abstraction\obj\Debug\netstandard2.0\Automat.Application.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\02483838\source\repos\OdealCase\Automat.Application.Abstraction\obj\Debug\netstandard2.0\Automat.Application.Abstraction.dll
+C:\Users\02483838\source\repos\OdealCase\Automat.Application.Abstraction\obj\Debug\netstandard2.0\Automat.Application.Abstraction.pdb
